@@ -1,0 +1,16 @@
+.title {
+  font-weight: bold;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
